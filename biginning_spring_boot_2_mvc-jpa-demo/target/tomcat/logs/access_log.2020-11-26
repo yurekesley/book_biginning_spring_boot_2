@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [26/Nov/2020:17:00:35 -0300] "GET /biginning_spring_boot_2_mvc-jpa-demo/ HTTP/1.1" 500 4192 http-bio-9966-exec-2 799
+0:0:0:0:0:0:0:1 - - [26/Nov/2020:17:05:49 -0300] "GET /biginning_spring_boot_2_mvc-jpa-demo/ HTTP/1.1" 200 456 http-bio-9966-exec-1 1159
+0:0:0:0:0:0:0:1 - - [26/Nov/2020:17:10:26 -0300] "GET /biginning_spring_boot_2_mvc-jpa-demo/home HTTP/1.1" 404 1033 http-bio-9966-exec-5 13
+0:0:0:0:0:0:0:1 - - [26/Nov/2020:17:10:32 -0300] "GET /biginning_spring_boot_2_mvc-jpa-demo/ HTTP/1.1" 200 456 http-bio-9966-exec-6 37

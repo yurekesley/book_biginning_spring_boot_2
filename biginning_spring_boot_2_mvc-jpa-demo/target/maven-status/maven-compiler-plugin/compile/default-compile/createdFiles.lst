@@ -1,0 +1,6 @@
+br\com\yurekesley\repositories\UserRepository.class
+br\com\yurekesley\domain\User.class
+br\com\yurekesley\config\SpringWebAppInitializer.class
+br\com\yurekesley\controllers\HomeController.class
+br\com\yurekesley\config\AppConfig.class
+br\com\yurekesley\config\WebMvcConfig.class
